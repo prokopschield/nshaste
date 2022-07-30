@@ -1,0 +1,17 @@
+{
+	"name": "nshaste",
+	"version": "0.1.1",
+	"main": "index.js",
+	"bin": {
+		"nshaste": "index.js",
+		"haste": "index.js"
+	},
+	"author": "Prokop Schield",
+	"license": "GPL-3.0-or-later",
+	"dependencies": {
+		"nodesite-cdn": "0.1.0-3"
+	},
+	"devDependencies": {
+		"@types/node": "^16"
+	}
+}
